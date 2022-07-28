@@ -8,7 +8,7 @@
 - 📫 How to reach me **check my contacts below.**
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://twitter.com/lookuhsq" target="_blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
+<p align="center"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
 <p align="center">
 <a href="https://dev.to/sodabear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sodabear" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbear" height="30" width="40" /></a>
