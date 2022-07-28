@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript.**
 
-- 👨‍💻 All of my projects are available at [who-is-tofubear.web.app](who-is-tofubear.web.app)
+- 👨‍💻 All of my projects are available at [who-is-tofubear.web.app](https://www.who-is-tofubear.web.app)
 
 - 📫 How to reach me **Check my portfolio.**
 
