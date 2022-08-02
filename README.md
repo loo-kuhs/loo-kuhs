@@ -1,10 +1,4 @@
-<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
-<h1 align="center">Hi <lord-icon
-    src="https://cdn.lordicon.com/imamsnbq.json"
-    trigger="hover"
-    colors="primary:#121331,secondary:#08a88a"
-    style="width:250px;height:250px">
-</lord-icon>, I'm Lucas</h1>
+<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></a>, I'm Lucas</h1>
 <h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
 
 - 🌱 I’m currently learning **React and TypeScript.**
@@ -15,6 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
+<p align="center"> <a href="https://wakatime.com/@loo_kuhs"><img src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg" alt="Total time coded since Aug 2 2022" /></a> </p>
 <p align="center">
 <a href="https://dev.to/sodabear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sodabear" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbear" height="30" width="40" /></a>
@@ -30,15 +25,14 @@
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt=""></p>
 
 ---
-<h3 align="center">My stats:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""><br/><img src="https://github-readme-stats.vercel.app/api?username=loo-kuhs&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" alt=""><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=loo-kuhs&theme=vision-friendly-dark&hide_border=false" alt=""><br/>
-</p>
+<h3 align="center">My GitHub stats:</h3>
 
----
-<h3 align="center">My trophies:</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=loo-kuhs&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt=""></p>
+<p><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@loo_kuhs&amp;hide_title=true&amp;hide_border=true&amp;langs_count=5&amp;bg_color=00000000&amp;text_color=777" alt="wakatime stats"></p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""><br/>
+
+</p>
 
 ---
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
