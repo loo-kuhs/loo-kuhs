@@ -1,11 +1,15 @@
 <h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Lucas</h1>
+
 <h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
+<br/>
 
 - 🌱 I’m currently learning **React and TypeScript.**
 
 - 👨‍💻 All of my projects are available at [who-is-tofubear.web.app](https://who-is-tofubear.web.app/)
 
 - 📫 How to reach me **check my contacts below.**
+
+---
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
@@ -31,7 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=default&hide_title=true" alt="">
 </p>
 <br/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=loo_kuhs&theme=aura&layout=compact" alt="wakatime stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=loo_kuhs&theme=aura&layout=compact&custom_title=This+week+I+coded+using:" alt="wakatime stats"></p>
 
 ---
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
