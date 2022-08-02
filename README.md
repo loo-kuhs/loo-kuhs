@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8%"></a>, I'm Lucas</h1>
+<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Lucas</h1>
 <h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
 
 - 🌱 I’m currently learning **React and TypeScript.**
@@ -22,17 +22,16 @@
 
 ---
 <h3 align="center">Quote of the day:</h3>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt=""></p>
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt=""></p>
 
 ---
 <h3 align="center">My GitHub stats:</h3>
-
-<p><img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=@loo_kuhs&amp;hide_title=true&amp;hide_border=true&amp;langs_count=5&amp;bg_color=00000000&amp;text_color=777" alt="wakatime stats"></p>
-
+<br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""><br/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=default&hide_title=true" alt="">
 </p>
+<br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=loo_kuhs&theme=aura&layout=compact" alt="wakatime stats"></p>
 
 ---
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
