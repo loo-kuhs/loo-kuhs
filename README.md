@@ -1,4 +1,10 @@
-<h1 align="center">Hi :ramen:, I'm Lucas</h1>
+<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+<h1 align="center">Hi <lord-icon
+    src="https://cdn.lordicon.com/imamsnbq.json"
+    trigger="hover"
+    colors="primary:#121331,secondary:#08a88a"
+    style="width:250px;height:250px">
+</lord-icon>, I'm Lucas</h1>
 <h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
 
 - 🌱 I’m currently learning **React and TypeScript.**
