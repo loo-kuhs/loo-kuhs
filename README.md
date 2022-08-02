@@ -9,7 +9,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
-<p align="center"> <a href="https://wakatime.com/@loo_kuhs"><img src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg" alt="Total time coded since Aug 2 2022" /></a> </p>
+<p align="center"> <a href="https://wakatime.com/@7aee7cd2-8a51-4317-9fdf-79cd11388f61"><img src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg" alt="Total time coded since Aug 2 2022" /></a> </p>
 <p align="center">
 <a href="https://dev.to/sodabear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sodabear" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbear" height="30" width="40" /></a>
