@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React and TypeScript.**
 
-- 👨‍💻 All of my projects are available at -> [![](https://img.shields.io/website?color=9F9F9F&style=flat-square&up_message=who-is-tofubear.web.app&url=https%3A%2F%2Fwho-is-tofubear.web.app)](https://who-is-toubear.web.app)
+- 👨‍💻 All of my projects are available at -> [![](https://img.shields.io/website?color=9F9F9F&style=flat-square&up_message=who-is-tofubear.web.app&url=https%3A%2F%2Fwho-is-tofubear.web.app)](https://who-is-tofubear.web.app)
 
 - 📫 How to reach me **check my contacts below.**
 
