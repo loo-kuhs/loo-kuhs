@@ -1,4 +1,6 @@
-<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Lucas</h1>
+<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+
+<p align="center"> <img  height="50" alt="Me" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" /> </p>
 
 <h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
 <br/>
