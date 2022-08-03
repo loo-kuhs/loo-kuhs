@@ -1,7 +1,7 @@
 <h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
 
 
-<div align="right">
+<div align="center">
 <br/>
   <img height="50" alt="I'm Lucas and I like programming" src="https://raw.githubusercontent.com/loo-kuhs/loo-kuhs/master/images/note.svg" />
 </div>
@@ -48,5 +48,14 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=loo_kuhs&theme=aura&layout=compact&custom_title=This+week+I+coded+using:" alt="wakatime stats"></p>
 
 ---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+</div>
 
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
