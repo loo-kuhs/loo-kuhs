@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbear" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucasbear" height="30" width="40" /></a>
 </p>
-<div style="display: flex; flex-direction: row">
+<div align="center" style="display: flex; flex-direction: row">
 <p  style="padding-right: 60%"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
 <p > <a href="https://wakatime.com/@7aee7cd2-8a51-4317-9fdf-79cd11388f61"><img src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg?style=for-the-badge" alt="Total time coded since Aug 2 2022" /></a> </p>
 </div>
