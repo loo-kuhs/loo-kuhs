@@ -61,4 +61,6 @@
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
 
+<div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
+</div>
