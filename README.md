@@ -45,7 +45,7 @@
 <h3 align="center">My GitHub stats:</h3>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_title=false" alt="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loo-kuhs&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide_title=false&langs_count=8" alt="">
 </p>
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=loo_kuhs&range=last_7_days&theme=aura&layout=compact&custom_title=This+week+I+coded+using:" alt="wakatime stats"></p>
