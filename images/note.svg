@@ -4,15 +4,15 @@
 			<style>
         strong {
           font-family: "Comic Sans", "Comic Sans MS", Chalkboard, ChalkboardSE-Regular, "Marker Felt", Purisa, "URW Chancery L", cursive, sans-serif;
-          color: #61FFA8;
+          color: #D88B6A;
           font-size: 1.5em;
         }
         .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
+          animation: blink-animation 1.4s steps(5, start) infinite;
         }
         @keyframes blink-animation {
           to {
-            color: #FFF
+            color: #D56F3E;
             visibility: hidden;
           }
         }

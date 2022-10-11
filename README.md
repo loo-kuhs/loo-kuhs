@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-<img height="50" alt="I'm Lucas and I like programming" src="https://raw.githubusercontent.com/loo-kuhs/loo-kuhs/master/images/note.svg" />
+<img height="50" alt="I'm Lucas and I like programming" src="./images/note.svg" />
 </p>
 
 
