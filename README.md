@@ -20,8 +20,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+
 <a href="https://dev.to/sodabear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sodabear" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbear" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/lucasbear" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lucasbear" height="30" width="40" /></a>
 
 <br/>
@@ -31,6 +34,7 @@
 <img src="https://projecteuler.net/profile/loo-bear.png" alt="loo-bear-project_Euler" height="45" width="150"/>
 </a>
 </div>
+
 </p>
 <div align="center" style="display: flex; flex-direction: row">
 <p  style="padding-right: 60%"> <a href="https://twitter.com/lookuhsq" target="blank"><img src="https://img.shields.io/twitter/follow/lookuhsq?logo=twitter&style=for-the-badge" alt="lookuhsq" /></a> </p>
@@ -68,6 +72,8 @@
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 </div>
+
+<br />
 
 <div align="center">
 <p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
