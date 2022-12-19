@@ -26,7 +26,7 @@ Although I am still learning, I am very interested in further developing my skil
 
 <br/>
 <div align="center">
-<a href="https://projecteuler.net/profile/loo-bear.png" target="_blank">
+<a href="https://github.com/loo-kuhs/project-euler-solutions" target="_blank">
 <img src="https://projecteuler.net/profile/loo-bear.png" alt="loo-bear-project_Euler" height="45" width="150"/>
 </a>
 </div>
