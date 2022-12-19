@@ -1,4 +1,4 @@
-<h1 align="center">Hi  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a></h1>
+<h1 align="center"><a href="https://who-is-tofubear.web.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Welcome</h1>
 
 <br/>
 
@@ -7,14 +7,13 @@
 </p>
 
 
-<h3 align="center">And I'm a software engineer and frontend developer too... just for now.</h3>
+<p align="justify">
+I am a software engineer based in Mexico and I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript and C#.
+
+Although I am still learning, I am very interested in further developing my skills and participating in interesting projects and collaborating with other developers. If you want to learn more about my work or have a project where you think I could be useful, feel free to explore my profile and send me a message. I'd love to chat and see how we can collaborate together in the future. I'm excited to see what the future holds for me in the world of software engineering.
+</p>
+
 <br/>
-
-- 🧠 Currently I'm learning **Data Structures.**
-
-- 💼 All of my projects are available here ⟹ [![](https://img.shields.io/website?color=9F9F9F&style=flat-square&up_message=who-is-tofubear.web.app&url=https%3A%2F%2Fwho-is-tofubear.web.app)](https://who-is-tofubear.web.app)
-
-- 📮 **Check my contacts below** to reach me. 🤓
 
 ---
 
