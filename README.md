@@ -55,6 +55,16 @@ Although I'm still learning, I'm very interested in further developing my skills
 
 ---
 
+<br>
+
+<div align="center">
+  <p>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://profile-counter.glitch.me/loo-kuhs/count.svg" alt="Visits">
+    </a>
+  </p>
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
@@ -65,7 +75,3 @@ Although I'm still learning, I'm very interested in further developing my skills
 </div>
 
 <br />
-
-<div align="center">
-<p><a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=loo-kuhs&icon=1&color=6" alt=""></a></p>
-</div>
