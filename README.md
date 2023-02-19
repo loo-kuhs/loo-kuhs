@@ -1,4 +1,8 @@
-<h1 align="center"><a href="https://who-is-tofubear.web.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> Welcome</h1>
+<h1 align="center">
+  <a href="https://who-is-tofubear.web.app/">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  </a> Welcome
+</h1>
 
 <br/>
 
@@ -8,7 +12,7 @@
 
 
 <p align="justify">
-I'm a software engineer based in Mexico and I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript and C#.
+I'm a software engineer based in Mexico and I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript, TypeScript and Java.
 
 Although I'm still learning, I'm very interested in further developing my skills and participating in interesting projects and collaborating with other developers. If you want to learn more about my work or have a project where you think I could be useful, feel free to explore my profile and send me a message. I'd love to chat and see how we can collaborate together in the future. I'm excited to see what the future holds for me in the world of software engineering.
 </p>
@@ -57,7 +61,33 @@ Although I'm still learning, I'm very interested in further developing my skills
 
 <br />
 
-<p align="justify"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"> <img src="https://img.shields.io/badge/Vue-%2320232a.svg?style=flat-square&logo=vue.js&logoColor=colored" alt="Vue.js"> <img src="https://img.shields.io/badge/-Golang-%2320232a.svg?style=flat-square&logo=Go&logoColor=colored" alt="Go" > <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase"> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="JWT"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js">  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"> <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab"> <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" alt="BitBucket" > <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="VSCode" > </p> 
+<div align="justify">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Golang-%2320232a.svg?style=flat-square&logo=Go&logoColor=colored" alt="Go" >
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=OpenJDK&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue-%2320232a.svg?style=flat-square&logo=vue.js&logoColor=colored" alt="Vue.js">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" alt="Firebase">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" alt="JWT">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" alt="GitLab">
+  <img src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket" alt="BitBucket" >
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" alt="VSCode" >
+  <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea" alt="IntelliJ IDEA" >
+  <img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal" alt="Windows Terminal" >
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" >
+</div> 
 
 ---
 
