@@ -5,16 +5,18 @@
         @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300");
         strong {
           font-family: 'Fira Code', monospace;
-          color: #D88B6A;
+          color: #f8f7ff;
           font-size: 1.5em;
           font-weight: 300;
         }
+
         .blink {
           animation: blink-animation 1.4s steps(5, start) infinite;
         }
+        
         @keyframes blink-animation {
           to {
-            color: #D2F233;
+            color: #02c39a;
             visibility: hidden;
           }
         }
