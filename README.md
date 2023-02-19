@@ -1,5 +1,3 @@
-<style>p{color: #02c39a;}</style>
-
 <h1 align="center">
   <a href="https://who-is-tofubear.web.app/">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
