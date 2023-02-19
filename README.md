@@ -1,4 +1,4 @@
-<style type="text/css">p{color: #02c39a;}</style>
+<style>p{color: #02c39a;}</style>
 
 <h1 align="center">
   <a href="https://who-is-tofubear.web.app/">
