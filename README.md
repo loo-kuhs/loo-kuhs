@@ -12,7 +12,7 @@
 
 
 <p align="justify">
-  I'm a software engineer based in Mexico and I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript, TypeScript and Java.
+  I'm a software engineer, I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript, TypeScript and Java.
 
   Although I'm still learning, I'm very interested in further developing my skills and participating in interesting projects and collaborating with other developers. If you want to learn more about my work or have a project where you think I could be useful, feel free to explore my profile and send me a message. I'd love to chat and see how we can collaborate together in the future. I'm excited to see what the future holds for me in the world of software engineering.
 </p>
