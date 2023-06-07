@@ -16,7 +16,7 @@
         
         @keyframes blink-animation {
           to {
-            color: #02c39a;
+            color: #00F112;
             visibility: hidden;
           }
         }
