@@ -10,15 +10,6 @@
   <img height="50" alt="Text: Hello World! I'm Lucas" src="./images/note.svg" />
 </p>
 
-
-<p align="justify">
-  I'm a software engineer, I love learning about new technologies and developing personal projects. I have completed several projects that have improved my technical skills and my knowledge of different programming languages, such as JavaScript, TypeScript and Java.
-
-  Although I'm still learning, I'm very interested in further developing my skills and participating in interesting projects and collaborating with other developers. If you want to learn more about my work or have a project where you think I could be useful, feel free to explore my profile and send me a message. I'd love to chat and see how we can collaborate together in the future. I'm excited to see what the future holds for me in the world of software engineering.
-</p>
-
-<br/>
-
 ---
 
 <h3 align="center">Connect with me:</h3>
@@ -48,8 +39,8 @@
   <p>
     <a href="https://wakatime.com/@7aee7cd2-8a51-4317-9fdf-79cd11388f61"
       target="_blank">
-      <img 
-      src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg?style=for-the-badge" 
+      <img
+      src="https://wakatime.com/badge/user/7aee7cd2-8a51-4317-9fdf-79cd11388f61.svg?style=for-the-badge"
       alt="Total time coded since Aug 2 2022" />
     </a>
   </p>
@@ -86,7 +77,7 @@
   <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea" alt="IntelliJ IDEA" >
   <img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal" alt="Windows Terminal" >
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" >
-</div> 
+</div>
 
 ---
 
